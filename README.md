@@ -4,10 +4,11 @@
 
 ### I'm Ana 👋
 
-- 🔭 I’m about the finish my Full Stack Web Development Certification with the Georgia Tech.
+- 🔭 Earned my Full Stack Web Development Certification with the Georgia Tech.
 - 🌱 I’m currently learning `MERN` applications.
 - 👯 I’m excited to learn and gain experience!
 - 📫 How to reach me: anabel.espinoza@gmail.com
+- 🌟 Visit my portfolio:  https://anabel-espinoza.github.io/My-Portfolio/
 
 <!-- https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif -->
 <!-- https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif -->
